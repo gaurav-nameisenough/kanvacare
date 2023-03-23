@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kanvacare/static/css/main.73dd1e24.css",
+    "main.js": "/kanvacare/static/js/main.a12bf083.js",
+    "index.html": "/kanvacare/index.html",
+    "main.73dd1e24.css.map": "/kanvacare/static/css/main.73dd1e24.css.map",
+    "main.a12bf083.js.map": "/kanvacare/static/js/main.a12bf083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73dd1e24.css",
+    "static/js/main.a12bf083.js"
+  ]
+}
