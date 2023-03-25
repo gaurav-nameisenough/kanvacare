@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kanvacare/static/css/main.a34eff6b.css",
-    "main.js": "/kanvacare/static/js/main.c5288742.js",
+    "main.js": "/kanvacare/static/js/main.3f125f1c.js",
     "index.html": "/kanvacare/index.html",
     "main.a34eff6b.css.map": "/kanvacare/static/css/main.a34eff6b.css.map",
-    "main.c5288742.js.map": "/kanvacare/static/js/main.c5288742.js.map"
+    "main.3f125f1c.js.map": "/kanvacare/static/js/main.3f125f1c.js.map"
   },
   "entrypoints": [
     "static/css/main.a34eff6b.css",
-    "static/js/main.c5288742.js"
+    "static/js/main.3f125f1c.js"
   ]
 }
